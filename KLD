@@ -27,6 +27,17 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 	game.StarterGui:SetCore("SendNotification", {
 		Title = "Keyland";
 		Text = "Discord link has been copied, please join!",
